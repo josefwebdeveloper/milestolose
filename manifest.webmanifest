@@ -1,0 +1,61 @@
+{
+  "name": "Miles to Lose",
+  "short_name": "MilesToLose",
+  "description": "Cycling journey and the honest path to getting lean. Border series shorts.",
+  "lang": "ru",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0B0B0D",
+  "theme_color": "#0B0B0D",
+  "categories": ["sports", "health", "entertainment"],
+  "icons": [
+    {
+      "src": "assets/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "assets/icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "assets/hero.png",
+      "sizes": "1080x1920",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "По границе Сирии, худеющий"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Shorts",
+      "url": "./#video",
+      "description": "Последний выпуск"
+    },
+    {
+      "name": "YouTube",
+      "url": "https://www.youtube.com/@vechno-hudeyuschiy",
+      "description": "Канал на YouTube"
+    }
+  ]
+}
