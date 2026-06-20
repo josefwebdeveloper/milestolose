@@ -1,7 +1,7 @@
 {
   "name": "Miles to Lose",
   "short_name": "MilesToLose",
-  "description": "Cycling journey and the honest path to getting lean. Border series shorts.",
+  "description": "Honest midlife journal from Israel — cycling, Kinneret, and the endless path to getting lean.",
   "lang": "ru",
   "dir": "ltr",
   "start_url": "./",
@@ -43,7 +43,7 @@
       "sizes": "1080x1920",
       "type": "image/png",
       "form_factor": "narrow",
-      "label": "По границе Сирии, худеющий"
+      "label": "Вокруг Кинерета — вечно худеющий"
     }
   ],
   "shortcuts": [
